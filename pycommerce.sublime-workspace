@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"P",
+				"Product"
+			],
+			[
+				"n",
+				"new_var"
+			],
+			[
+				"get",
+				"get_absolute_url"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"m",
+				"max_digits"
+			],
+			[
+				"prod",
+				"Product"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"Pr",
+				"ProductManager"
+			],
+			[
+				"Produ",
+				"ProductQuerySet"
+			],
+			[
+				"Product",
+				"ProductListView"
+			],
+			[
+				"http",
+				"Http404"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"about",
+				"aboutus"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"h",
+				"hr	Tag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"A",
+				"AptiInsInteractive"
+			],
+			[
+				"en",
+				"EngInstructor"
+			],
+			[
+				"apti",
+				"AptiInstructor"
+			],
+			[
+				"a",
+				"average2"
+			],
+			[
+				"b",
+				"br	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/harsha/csaecommerce/src/templates/navbar.html",
+		"/home/harsha/csaecommerce/src/templates/head_css.html",
+		"/home/harsha/csaecommerce/src/templates/foot_js.html",
+		"/home/harsha/csaecommerce/src/templates/home.html",
+		"/home/harsha/csaecommerce/src/templates/base.html",
+		"/home/harsha/csaecommerce/src/csaecommerce/old_settings.py",
+		"/home/harsha/csaecommerce/src/csaecommerce/settings/local.py",
+		"/home/harsha/csaecommerce/src/csaecommerce/settings/base.py",
+		"/home/harsha/csaecommerce/src/.gitignore",
+		"/home/harsha/csaecommerce/src/ecommerce2/old_settings.py",
+		"/home/harsha/csaecommerce/src/ecommerce2/settings/base.py",
+		"/home/harsha/csaecommerce/src/ecommerce2/settings/local.py",
+		"/home/harsha/csaecommerce/src/ecommerce2/settings/production.py",
+		"/home/harsha/csaecommerce/src/ecommerce2/urls.py",
+		"/home/harsha/csaecommerce/src/ecommerce2/wsgi.py",
+		"/home/harsha/csaecommerce/src/manage.py",
+		"/home/harsha/csacommerce/src/products/templates/products/product_detail.html",
+		"/home/harsha/csacommerce/src/products/admin.py",
+		"/home/harsha/csacommerce/src/csacommerce/urls.py",
+		"/home/harsha/csacommerce/src/csacommerce/settings/base.py",
+		"/home/harsha/csacommerce/src/products/templates/products/product_list.html",
+		"/home/harsha/csacommerce/src/products/urls.py",
+		"/home/harsha/csacommerce/src/products/views.py",
+		"/home/harsha/csacommerce/src/products/models.py",
+		"/home/harsha/csacommerce/src/csacommerce/settings/local.py",
+		"/home/harsha/csacommerce/src/products/template/products/product_detail.html",
+		"/home/harsha/csacommerce/src/.gitignore",
+		"/home/harsha/csacommerce/src/manage.py",
+		"/home/harsha/csacommerce/src/trydjango18/wsgi.py",
+		"/home/harsha/csacommerce/src/trydjango18/urls.py",
+		"/home/harsha/csacommerce/src/trydjango18/settings/production.py",
+		"/home/harsha/csacommerce/src/trydjango18/settings/local.py",
+		"/home/harsha/csacommerce/src/trydjango18/settings/base.py",
+		"/home/harsha/csacommerce/src/trydjango18/old_settings.py",
+		"/home/harsha/cse_ecommerce/src/products/admin.py",
+		"/home/harsha/cse_ecommerce/src/products/models.py",
+		"/home/harsha/cse_ecommerce/src/csacommerce/settings/local.py",
+		"/home/harsha/csa_ecommerce/src/.gitignore",
+		"/home/harsha/csa_ecommerce/src/trydjango18/old_settings.py",
+		"/home/harsha/csa_ecommerce/src/trydjango18/settings/base.py",
+		"/home/harsha/csa_ecommerce/src/trydjango18/settings/local.py",
+		"/home/harsha/csa_ecommerce/src/trydjango18/settings/production.py",
+		"/home/harsha/csa_ecommerce/src/trydjango18/urls.py",
+		"/home/harsha/csa_ecommerce/src/trydjango18/wsgi.py",
+		"/home/harsha/csa_ecommerce/src/manage.py",
+		"/home/harsha/test.php",
+		"/run/media/harsha/New Volume/shravan/themeforest-8178892-media-center-electronic-ecommerce-html-template/HTML/header-1/index.html",
+		"/run/media/harsha/New Volume/shravan/themeforest-8178892-media-center-electronic-ecommerce-html-template/HTML/header-1/index-2.html",
+		"/home/harsha/inter.py",
+		"/run/media/harsha/New Volume/shravan/themeforest-8178892-media-center-electronic-ecommerce-html-template/HTML/header-2/index.html",
+		"/home/harsha/Videos/tvf/ecommerce/index.html",
+		"/home/harsha/source/index.html",
+		"/home/harsha/virtual/virt2/career_buddies_src/signups/forms.py",
+		"/home/harsha/virtual/virt2/career_buddies_src/signups/models.py",
+		"/home/harsha/virtual/virt2/static/templates/thankyou.html",
+		"/home/harsha/virtual/virt2/career_buddies_src/The_Career_Buddies/settings.py",
+		"/home/harsha/virtual/virt2/static/templates/register.html",
+		"/home/harsha/virtual/virt2/career_buddies_src/signups/views.py",
+		"/home/harsha/virtual/virt2/static/templates/signup.html",
+		"/home/harsha/virtual/virt2/static/templates/base.html",
+		"/home/harsha/virtual/virt2/career_buddies_src/signups/admin.py",
+		"/home/harsha/virtual/virt2/static/templates/about.html",
+		"/home/harsha/virtual/virt2/career_buddies_src/The_Career_Buddies/urls.py",
+		"/home/harsha/virtual/virt2/static/templates/flatpages/default.html",
+		"/home/harsha/virtual/virt2/static/templates/aboutus.html",
+		"/home/harsha/bootde.html",
+		"/home/harsha/feedbackform.html",
+		"/home/harsha/feedback.js",
+		"/home/harsha/practice2.html",
+		"/home/harsha/validation.js",
+		"/home/harsha/exampleradio.html",
+		"/home/harsha/sample-registration-form-validation.js",
+		"/home/harsha/js-form-validation.css",
+		"/home/harsha/form.html",
+		"/home/harsha/kjhuidfs.js",
+		"/home/harsha/withradio.js",
+		"/home/harsha/practice.html",
+		"/home/harsha/virtual/virt2/examslive/register/models.py",
+		"/home/harsha/virtual/virt2/examslive/register/views.py",
+		"/home/harsha/virtual/virt2/examslive/register/tests.py",
+		"/home/harsha/bootdemo.html",
+		"/home/harsha/Documents/testf.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/harsha/csaecommerce/src",
+			"/home/harsha/csacommerce/src",
+			"/home/harsha/csa_ecommerce/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ecommerce2",
+			"trydjango18",
+			"{%",
+			"ha"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"csaecommerce",
+			"csacommerce"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true
+}
