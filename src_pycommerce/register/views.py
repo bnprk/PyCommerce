@@ -18,10 +18,9 @@ def home(request):
 		if not instance.full_name:
 			instance.full_name = "harsha"
 		instance.save()
-		
-	context = {
+		context = {
 	    "title": "Thank you"
-	}
+	    }
 	return render(request, "home.html", context)
 
 
